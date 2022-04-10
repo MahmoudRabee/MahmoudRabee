@@ -77,4 +77,6 @@ I'm currently into the Cloud and DevOps ☁️.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 &#8287;&#8287;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+&#8287;&#8287;
+<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="postgresql" width="40" height="40"/>
 </p>
